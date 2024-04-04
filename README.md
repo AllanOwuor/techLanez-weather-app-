@@ -18,6 +18,6 @@ const API_KEY = 'YOUR_API_KEY';
 ```
 
 ## Screenshots
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main\weather app\screenshots/1.png)
-![sample-screenshot](\weather app\screenshots/2.png)
-![sample-screenshot](\weather app\screenshots/3.png)
+![sample-screenshot](https://github.com/AllanOwuor/techLanez-weather-app-/blob/main/screenshots/1.png)
+![sample-screenshot]([\weather app\screenshots/2.png](https://github.com/AllanOwuor/techLanez-weather-app-/blob/main/screenshots/2.png))
+![sample-screenshot]([\weather app\screenshots/3.png](https://github.com/AllanOwuor/techLanez-weather-app-/blob/main/screenshots/3.png))
